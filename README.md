@@ -220,6 +220,8 @@ nvm install -g --lts
   npm install -g create-vite@latest
   ```
 
+##
+
 ### Docker
 
 #### Instal Docker Engine
@@ -276,6 +278,8 @@ sudo apt install gnome-terminal
     ```
     There are a few post-install configuration steps done through the post-install script contained in the deb package.
 
+##
+
 ### Mongo DB
 
 If you prefer to use Docker, MongoDB can be set up using a Docker image. Alternatively, for a workstation setup, follow this [Mongo Server Installation Guide](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu).
@@ -290,7 +294,9 @@ For each tool, download the DEB package and install it using `sudo apt-get insta
 
 Please note: Ensure compatibility with your system architecture and update versions accordingly.
 
-#### .NET
+##
+
+### .NET
 
 ##### .NET SDK Versions
 
@@ -346,10 +352,12 @@ To confirm successful installations:
 - **Issue**: SDK versions conflict or installation errors.
   - **Resolution**: Verify system dependencies and compatibility before installation.
 
-## Additional Resources
+##### Additional Resources
 
 - [.NET Official Documentation](https://docs.microsoft.com/en-us/dotnet/)
 - [Mono Project Documentation](https://www.mono-project.com/docs/)
+
+##
 
 ### Programs
 
