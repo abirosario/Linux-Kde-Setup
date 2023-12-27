@@ -75,5 +75,5 @@ sudo apt install net-tools
 ## Shell Setup
 
 Enhance your Linux command line experience with ZSH and Oh My Posh! This setup guide walks you through installing ZSH, a powerful shell, and configuring Oh My Posh to personalize your command line prompt.
-[Full Configuration](ShellSetup.md)
+[Full Configuration](Shell%20Setup/ShellSetup.md)
 
